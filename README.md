@@ -1,8 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Shruthika%20Nair&fontSize=44&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%2F%20ML%20Developer%20%E2%80%A2%20Data%20Science%20Student&descAlignY=52&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Shruthika%20Nair&fontSize=44&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%2F%20ML%20Developer%20%E2%80%A2%20Data%20Analytics%20%E2%80%A2%20Data%20Science%20Student&descAlignY=52&descSize=18)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+LLM-powered+applications;Fine-tuning+language+models+with+LoRA;Designing+RAG+pipelines+%26+AI+chatbots;Turning+data+into+decisions+with+Power+BI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=620&lines=Turning+raw+data+into+actionable+insights;Building+interactive+Power+BI+dashboards;Fine-tuning+language+models+with+LoRA;Designing+RAG+pipelines+%26+AI+chatbots;Data+Visualization+%7C+BI+%7C+Analytics)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Shruthika-nair&color=blueviolet&style=flat-square&label=Profile+Views)
 
@@ -12,11 +12,13 @@
 
 B.Tech in **Computing & Data Science** @ SAI University, Chennai (2nd Year)
 
-I build things at the intersection of **data, AI, and real-world problem solving** — from fine-tuning LLMs and building RAG pipelines to designing interactive business dashboards. I care about making AI systems that are practical, accessible, and well-engineered.
+I'm passionate about **turning data into decisions** — whether that's building interactive Power BI dashboards that surface business insights, or engineering AI systems like RAG pipelines and fine-tuned LLMs. I work across the full data-to-intelligence spectrum: from data cleaning and visualization to deploying ML-powered applications.
 
-- Currently working on **LLM fine-tuning**, **retrieval-augmented generation**, and **voice AI systems**
+- Building **interactive dashboards** with Power BI — sales analytics, KPI tracking, regional performance
+- Working on **LLM fine-tuning**, **retrieval-augmented generation**, and **voice AI systems**
+- Strong focus on **data visualization, storytelling with data**, and **business intelligence**
 - Exploring **multimodal AI** and **agent-based architectures**
-- Open to collaborations on **AI/ML projects** and **data science** work
+- Open to collaborations on **data analytics**, **AI/ML**, and **BI** projects
 
 ---
 
@@ -24,22 +26,26 @@ I build things at the intersection of **data, AI, and real-world problem solving
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,docker,git,github,vscode,linux&theme=dark&perline=9)](https://skillicons.dev)
-
-</div>
-
-<div align="center">
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+#### Data Analytics & Visualization
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+
+#### AI / ML & LLMs
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-4A154B?style=for-the-badge)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Gradio](https://img.shields.io/badge/Gradio-F97316?style=for-the-badge&logo=gradio&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-4A154B?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+#### Languages & Tools
+
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,docker,git,github,vscode,linux&theme=dark&perline=9)](https://skillicons.dev)
 
 </div>
 
@@ -57,6 +63,7 @@ I build things at the intersection of **data, AI, and real-world problem solving
 
 | Project | Description | Key Tech |
 |---------|------------|----------|
+| **Sales & Performance Analytics Dashboard** | Interactive Power BI dashboard visualizing sales trends, regional performance, and KPIs with DAX measures | Power BI, DAX, Data Modeling |
 | [**LLM Fine-Tuning with LoRA**](https://github.com/Shruthika-nair/llm-finetuning-lora) | Parameter-efficient fine-tuning of DistilGPT-2 on instruction data, with a Gradio web demo | PEFT, Transformers, Gradio |
 | [**Medical AI Chatbot**](https://github.com/Shruthika-nair/medical-ai-chatbot) | RAG chatbot that retrieves medical documents and generates grounded, sourced answers | LangChain, ChromaDB, Streamlit |
 | [**Voice AI Assistant**](https://github.com/Shruthika-nair/voice-ai-assistant) | Speak → Whisper transcribes → LLM responds → TTS reads it back, all in one UI | Whisper, Ollama, gTTS, Gradio |
@@ -72,7 +79,6 @@ I build things at the intersection of **data, AI, and real-world problem solving
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Shruthika-nair&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-
 </div>
 
 ---
@@ -80,10 +86,12 @@ I build things at the intersection of **data, AI, and real-world problem solving
 ## Areas of Focus
 
 ```
-Artificial Intelligence & ML  ████████████████████  Active
+Data Analytics & Visualization ████████████████████  Active
+Power BI & Business Intelligence████████████████████  Active
+Dashboard Design & DAX         ████████████████████  Active
+Artificial Intelligence & ML   ████████████████████  Active
 LLM Fine-Tuning (LoRA/PEFT)   ████████████████████  Active
 RAG & Knowledge Systems        ██████████████████░░  Building
-Data Analytics & Visualization ████████████████████  Active
 NLP & Conversational AI        ██████████████████░░  Exploring
 Human-AI Interaction           ████████████████░░░░  Exploring
 ```
