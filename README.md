@@ -72,7 +72,6 @@ I build things at the intersection of **data, AI, and real-world problem solving
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Shruthika-nair&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shruthika-nair&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
