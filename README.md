@@ -55,6 +55,7 @@ I'm passionate about **turning data into decisions** — whether that's building
 
 <div align="center">
 
+[![Sales Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=Shruthika-nair&repo=sales-performance-dashboard&theme=tokyonight&hide_border=true)](https://github.com/Shruthika-nair/sales-performance-dashboard)
 [![LLM LoRA](https://github-readme-stats.vercel.app/api/pin/?username=Shruthika-nair&repo=llm-finetuning-lora&theme=tokyonight&hide_border=true)](https://github.com/Shruthika-nair/llm-finetuning-lora)
 [![Medical Chatbot](https://github-readme-stats.vercel.app/api/pin/?username=Shruthika-nair&repo=medical-ai-chatbot&theme=tokyonight&hide_border=true)](https://github.com/Shruthika-nair/medical-ai-chatbot)
 [![Voice Assistant](https://github-readme-stats.vercel.app/api/pin/?username=Shruthika-nair&repo=voice-ai-assistant&theme=tokyonight&hide_border=true)](https://github.com/Shruthika-nair/voice-ai-assistant)
@@ -63,7 +64,7 @@ I'm passionate about **turning data into decisions** — whether that's building
 
 | Project | Description | Key Tech |
 |---------|------------|----------|
-| **Sales & Performance Analytics Dashboard** | Interactive Power BI dashboard visualizing sales trends, regional performance, and KPIs with DAX measures | Power BI, DAX, Data Modeling |
+| [**Sales & Performance Dashboard**](https://github.com/Shruthika-nair/sales-performance-dashboard) | Interactive Power BI dashboard — 14.94M revenue, 6 countries, 24 sales reps with DAX measures & cross-filtering | Power BI, DAX, Power Query |
 | [**LLM Fine-Tuning with LoRA**](https://github.com/Shruthika-nair/llm-finetuning-lora) | Parameter-efficient fine-tuning of DistilGPT-2 on instruction data, with a Gradio web demo | PEFT, Transformers, Gradio |
 | [**Medical AI Chatbot**](https://github.com/Shruthika-nair/medical-ai-chatbot) | RAG chatbot that retrieves medical documents and generates grounded, sourced answers | LangChain, ChromaDB, Streamlit |
 | [**Voice AI Assistant**](https://github.com/Shruthika-nair/voice-ai-assistant) | Speak → Whisper transcribes → LLM responds → TTS reads it back, all in one UI | Whisper, Ollama, gTTS, Gradio |
